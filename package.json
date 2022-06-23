@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ID0NTMIND/frontend-project-lvl1#readme",
   "dependencies": {
+    "readline-sync": "^1.4.10",
     "ws": "^8.6.0"
   },
   "bin": {
