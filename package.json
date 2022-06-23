@@ -22,7 +22,8 @@
     "ws": "^8.6.0"
   },
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "devDependencies": {
     "@eslint/create-config": "github:eslint/create-config",
