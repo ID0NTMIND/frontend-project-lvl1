@@ -1,6 +1,6 @@
 import readLineSync from 'readline-sync';
-// import * as helpers from '../helpers.js';
 
+// Максимальное количество раундов одинаково для всех игр и должно быть равно трём.
 const countOfQuestion = 3;
 
 const gameProcess = (gameFuntion) => {
