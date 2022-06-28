@@ -5,7 +5,7 @@
 Preview: 
 
 even:
-https://asciinema.org/a/UfBzCLU6yxn8mMmMMuaBra3PH
+[![asciicast](https://asciinema.org/a/UfBzCLU6yxn8mMmMMuaBra3PH.svg)](https://asciinema.org/a/UfBzCLU6yxn8mMmMMuaBra3PH)
 
 calc:
 https://asciinema.org/a/WK2OkDtwiys5InmsKIK4XyoOj
