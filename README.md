@@ -8,15 +8,15 @@ even:
 [![asciicast](https://asciinema.org/a/UfBzCLU6yxn8mMmMMuaBra3PH.svg)](https://asciinema.org/a/UfBzCLU6yxn8mMmMMuaBra3PH)
 
 calc:
-https://asciinema.org/a/WK2OkDtwiys5InmsKIK4XyoOj
+[![asciicast](https://asciinema.org/a/WK2OkDtwiys5InmsKIK4XyoOj.svg)](https://asciinema.org/a/WK2OkDtwiys5InmsKIK4XyoOj)
 
 gcd: 
-https://asciinema.org/a/9NV0zkrDcVZdXktoxhqOJC43g
+[![asciicast](https://asciinema.org/a/9NV0zkrDcVZdXktoxhqOJC43g.svg)](https://asciinema.org/a/9NV0zkrDcVZdXktoxhqOJC43g)
 
 progression:
-https://asciinema.org/a/fpPX6CvnAHCo4fLLRV5m4aDUA
+[![asciicast](https://asciinema.org/a/fpPX6CvnAHCo4fLLRV5m4aDUA.svg)](https://asciinema.org/a/fpPX6CvnAHCo4fLLRV5m4aDUA)
 
 prime:
-https://asciinema.org/a/07ntYW5x2Z1Xnmk7rELKcXDYV
+[![asciicast](https://asciinema.org/a/07ntYW5x2Z1Xnmk7rELKcXDYV.svg)](https://asciinema.org/a/07ntYW5x2Z1Xnmk7rELKcXDYV)
 
 
