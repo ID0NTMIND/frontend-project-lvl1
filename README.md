@@ -9,7 +9,7 @@ A set of console games.
 
 ### Installation and setup:
 ```
-git clone git@github.com:heyanny2/frontend-project-lvl1.git
+git clone git@github.com:ID0NTMIND/frontend-project-lvl1.git
 npm ci
 npm link
 
