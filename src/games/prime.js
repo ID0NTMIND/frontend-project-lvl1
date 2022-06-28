@@ -16,8 +16,8 @@ const getCorrectAnswer = (number) => {
 const prime = () => {
   const task = 'Answer "yes" if given number is prime. Otherwise answer "no".';
   const questionNumber = helpers.getRandomNumber();
-  const question = `Question: ${questionNumber}`;
   const correctAnswer = getCorrectAnswer(questionNumber);
+  const question = helpers.getSimpleQuestion(questionNumber);
   const output = [task, question, correctAnswer];
 
   return output;

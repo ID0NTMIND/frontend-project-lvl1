@@ -11,6 +11,8 @@ const getRandomSign = () => {
   return signArray[randomNumber];
 };
 
+const getSimpleQuestion = (value) => `Question: ${value}`;
+
 const greeting = () => {
   console.log('Welcome to the Brain Games!');
   const userName = readLineSync.question('May I have your name? ');
@@ -18,4 +20,6 @@ const greeting = () => {
   return userName;
 };
 
-export { getRandomNumber, greeting, getRandomSign };
+export {
+  getRandomNumber, greeting, getRandomSign, getSimpleQuestion,
+};
