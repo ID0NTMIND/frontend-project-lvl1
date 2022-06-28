@@ -19,10 +19,13 @@ const progression = () => {
   const firsProgressionItem = helpers.getRandomNumber(100);
   const stepOfProgression = helpers.getRandomNumber(10);
   const lastProgressionItem = firsProgressionItem + stepOfProgression * progressionLength;
+
   let progressionItems = [];
+  // Заполнение массива прогрессии.
   for (let index = firsProgressionItem; index < lastProgressionItem; index += stepOfProgression) {
     progressionItems = [...progressionItems, index];
   }
+
   const questionPosition = helpers.getRandomNumber(progressionLength - 1);
   const questionString = getQuestion(progressionItems, questionPosition);
   const question = `Question: ${questionString}`;
