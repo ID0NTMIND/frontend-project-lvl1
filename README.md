@@ -13,4 +13,7 @@ https://asciinema.org/a/WK2OkDtwiys5InmsKIK4XyoOj
 gcd: 
 https://asciinema.org/a/9NV0zkrDcVZdXktoxhqOJC43g
 
+progression:
+https://asciinema.org/a/fpPX6CvnAHCo4fLLRV5m4aDUA
+
 
