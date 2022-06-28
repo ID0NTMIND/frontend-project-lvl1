@@ -17,8 +17,8 @@ const gameProcess = (gameFuntion) => {
   for (let indexOfQuestion = 0; indexOfQuestion < countOfQuestion; indexOfQuestion += 1) {
     const gameValues = gameFuntion();
     const questionValue = gameValues[1];
-    console.log(questionValue);
     const correctAnswer = gameValues[2];
+    console.log(questionValue);
     const userAnswer = readLineSync.question('Your answer:');
 
     if (correctAnswer === userAnswer) {

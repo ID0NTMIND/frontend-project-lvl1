@@ -10,4 +10,7 @@ https://asciinema.org/a/UfBzCLU6yxn8mMmMMuaBra3PH
 calc:
 https://asciinema.org/a/WK2OkDtwiys5InmsKIK4XyoOj
 
+gcd: 
+https://asciinema.org/a/9NV0zkrDcVZdXktoxhqOJC43g
+
 
