@@ -8,6 +8,7 @@
 A set of console games. For some people.
 
 ### Installation and setup:
+
 ```
 git clone git@github.com:ID0NTMIND/frontend-project-lvl1.git
 npm ci
