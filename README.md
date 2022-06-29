@@ -1,6 +1,7 @@
 ### Hexlet tests and linter status:
 [![hexlet-check](https://github.com/ID0NTMIND/frontend-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ID0NTMIND/frontend-project-lvl1/actions/workflows/hexlet-check.yml)
 <a href="https://codeclimate.com/github/ID0NTMIND/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/7a708fae50cfaa1fca22/maintainability" /></a>
+[![linter](https://github.com/ID0NTMIND/frontend-project-lvl1/actions/workflows/linter.yml/badge.svg)](https://github.com/ID0NTMIND/frontend-project-lvl1/actions/workflows/linter.yml)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 # Brain-games
