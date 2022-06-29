@@ -10,7 +10,7 @@ const gcd = () => {
   const task = 'Find the greatest common divisor of given numbers.';
   const firstNumber = helpers.getRandomNumber();
   const secondNumber = helpers.getRandomNumber();
-  const question = `Question: ${firstNumber}  ${secondNumber}`;
+  const question = `Question: ${firstNumber} ${secondNumber}`;
   const correctAnswer = String(getCorrectAnswer(firstNumber, secondNumber));
   const output = [task, question, correctAnswer];
 
