@@ -5,7 +5,7 @@
 
 # Brain-games
 
-A set of console games.
+A set of console games. For some people.
 
 ### Installation and setup:
 ```
