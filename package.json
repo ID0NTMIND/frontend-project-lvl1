@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ID0NTMIND/frontend-project-lvl1#readme",
   "dependencies": {
+    "@eslint/create-config": "^0.2.0",
     "readline-sync": "^1.4.10",
     "ws": "^8.6.0"
   },
@@ -30,7 +31,6 @@
     "brain-prime": "bin/brain-prime.js"
   },
   "devDependencies": {
-    "@eslint/create-config": "github:eslint/create-config",
     "eslint": "^8.18.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
